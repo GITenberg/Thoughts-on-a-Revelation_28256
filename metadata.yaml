@@ -1,0 +1,25 @@
+_repo: Thoughts-on-a-Revelation_28256
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jerram, S. J. (Samuel John)
+    alias: Jerram, Samuel John
+    gutenberg_agent_id: '33228'
+    url: http://www.gutenberg.org/2009/agents/33228
+description: ''
+gutenberg_issued: '2009-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Revelation'
+title: Thoughts on a Revelation
+url: http://www.gutenberg.org/ebooks/28256
